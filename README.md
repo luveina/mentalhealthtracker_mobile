@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+[![Build status](https://build.appcenter.ms/v0.1/apps/8891461a-77af-422e-a30a-171714c8c773/branches/main/badge)](https://appcenter.ms)
+
+public link: https://install.appcenter.ms/orgs/tutorial9_pbp/apps/mental-health-tracker/distribution_groups/public/releases/1
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
